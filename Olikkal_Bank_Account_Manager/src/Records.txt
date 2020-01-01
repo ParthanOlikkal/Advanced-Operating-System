@@ -1,0 +1,10 @@
+101 Mr.Tiger 1693
+102 Mr.Lion 17167
+103 Mr.Fox 3680
+104 Mr.Zebra 7555
+105 Mr.Elephant 8000.00
+106 Mr.Camel 1400.00
+107 Mr.Turtle 1100.00
+108 Mr.Rat 2500.00
+109 Mr.Cat 1700.00
+110 Mr.Dog 2200.00
